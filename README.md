@@ -14,4 +14,4 @@ In this project we :
 2. Cleaned and prepared the data
 3. Used 4 classification models
 4. Decided on a final model
-5. Make a prediction with new data
+5. Made a prediction with new data
