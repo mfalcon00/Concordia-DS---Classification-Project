@@ -1,6 +1,6 @@
 # Concordia-DS Classification-Project
 
-This repository includes the files for the classification project required for the Concordia Bootcamp course.
+This repository includes the files for the classification project required for the Concordia Bootcamp course. The team for this project was https://github.com/Fabihachow and Marjorie Falcon
 
 For this project, we worked with a dataset containing information from a fictional telco company that provided home phone and internet services to 7043 customers in California during a quarter.
 
